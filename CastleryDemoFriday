@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <product>
+    <id>CastelryCorrect</id>
+    <title>Hidden Storage Twin Storage Bed - Beige | Dalton</title>
+    <link>https://www.castlery.com/us/pla/dalton-storage-bed?bed_frame_size=twin&amp;frame_cover=fixed&amp;material=beach_linen</link>
+    <image_link>https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1741076777/crusader/variants/50440980-NG4001/Dalton-Super-Single-Storage-Bed-Beach-Linen-Square-Set_2-1741076775.jpg</image_link>
+    <description>Designed with a wingback headboard and roomy drawers, Dalton's platform silhouette brings form and function to the bedroom.</description>
+    <price>1399.00</price>
+    <category>Bed Frames, Bedroom, Dalton Collection,CamTest</category>
+    <inventory_quantity>10000</inventory_quantity>
+  </product>
+</catalog>
+
+
+  <product>
+    <id>CastleryCurrent</id>
+    <title>Hidden Storage Twin Storage Bed - Beige | Dalton</title>
+    <link>https://www.castlery.com/us/pla/dalton-storage-bed?bed_frame_size=twin&amp;frame_cover=fixed&amp;material=beach_linen</link>
+    <image_link>https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1741076777/crusader/variants/50440980-NG4001/Dalton-Super-Single-Storage-Bed-Beach-Linen-Square-Set_2-1741076775.jpg</image_link>
+    <description>Designed with a wingback headboard and roomy drawers, Dalton's platform silhouette brings form and function to the bedroom.</description>
+    <price>1399.00</price>
+    <categories>Category,Beds,Bed Frames,CamTest</categories>
+    <inventory_quantity>10000</inventory_quantity>
+    <Room_Category>Bedroom</Room_Category>
+    <Collection>Dalton Collection</Collection>
+  </product>
+</catalog>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>WD001</id>
+    <title>3 Rings Barossa Shiraz</title>
+    <link>https://www.winedirect.com.au/3-rings-barossa-shiraz</link>
+    <image_link>https://www.winedirect.com.au/media/catalog/product/cache/614deb42ddfd5e7fae0add5b63f1db3c/3/r/3rings-shiraz-21_nv-new-bling.png</image_link>
+    <description>A premium Barossa Valley Shiraz that showcases the region's signature style with rich dark fruit flavors of blackberry, plum, and dark cherry. The wine reveals subtle hints of black pepper, vanilla, and cedar from 18 months of aging in French oak barrels. Medium to full-bodied with smooth, well-integrated tannins and a long, lingering finish. This wine pairs beautifully with grilled red meats, hearty stews, and aged cheeses. Perfect for current drinking or cellar for 5-8 years to allow further development of complex tertiary flavors.</description>
+    <short_description>A premium Barossa Valley Shiraz with rich dark fruit flavors and smooth tannins.</short_description>
+    <price>45.00</price>
+    <inventory_quantity>127</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <rec_retail>true</rec_retail>
+    <categories>red wine,shiraz,barossa valley,australian wine</categories>
+  </product>
+
+  <product>
+    <id>WD002</id>
+    <title>Angas King 1836 Reserve Clare Valley Shiraz 2021</title>
+    <link>https://www.winedirect.com.au/angas-king-1836-reserve-clare-valley-shiraz-2021</link>
+    <image_link>https://www.winedirect.com.au/media/catalog/product/cache/614deb42ddfd5e7fae0add5b63f1db3c/a/n/angas-king--836-reserve-clare-valley-shiraz-21_nv-new-bling-1.png</image_link>
+    <description>An exceptional reserve Shiraz from Clare Valley that represents the pinnacle of the winemaker's craft. This limited production wine is sourced from select vineyard blocks with low yields, resulting in concentrated flavors of dark berries, black cherry, and ripe plum. The wine displays complex aromas of dark chocolate, espresso, and exotic spices including cardamom and star anise. Aged in premium French oak for 24 months, it develops layers of vanilla, toast, and leather notes. Full-bodied with firm, structured tannins and exceptional length. This wine demands attention and pairs magnificently with prime cuts of beef, game meats, or rich chocolate desserts. Cellar potential of 10-15 years.</description>
+    <short_description>An exceptional reserve Shiraz from Clare Valley with complex aromas and exceptional aging potential.</short_description>
+    <price>68.00</price>
+    <inventory_quantity>43</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <rec_retail>false</rec_retail>
+    <categories>red wine,shiraz,clare valley,reserve,australian wine</categories>
+  </product>
+
+  <product>
+    <id>WD003</id>
+    <title>Chaffey Bros Wine Co Omnia Nova Old Vine Syrah</title>
+    <link>https://www.winedirect.com.au/chaffey-bros-wine-co-omnia-nova-old-vine-syrah</link>
+    <image_link>https://www.winedirect.com.au/media/catalog/product/cache/614deb42ddfd5e7fae0add5b63f1db3c/c/h/chaffeybros-omnia-nova-syrah-2022nv-new-bling.png</image_link>
+    <description>Crafted from ancient vines that have weathered decades of seasons, this premium Syrah showcases the depth and complexity that only old vines can deliver. The wine bursts with intense flavors of black cherry, plum, and blackberry, complemented by subtle oak notes of vanilla and cedar. The old vine fruit provides exceptional concentration and structure, with fine-grained tannins that coat the palate. Notes of black pepper, licorice, and dried herbs add complexity to the rich fruit profile. Medium to full-bodied with excellent balance and a finish that lingers with hints of dark chocolate and espresso. This wine pairs beautifully with slow-cooked lamb, grilled venison, or aged hard cheeses. Cellar potential of 8-12 years.</description>
+    <short_description>Crafted from ancient vines, this premium Syrah delivers intense flavors and exceptional complexity.</short_description>
+    <price>52.00</price>
+    <inventory_quantity>89</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <rec_retail>true</rec_retail>
+    <categories>red wine,syrah,old vine,australian wine,premium</categories>
+  </product>
+
+  <product>
+    <id>WD004</id>
+    <title>Claymore Dark Side of the Moon Shiraz</title>
+    <link>https://www.winedirect.com.au/claymore-dark-side-of-the-moon-shiraz</link>
+    <image_link>https://www.winedirect.com.au/media/catalog/product/cache/614deb42ddfd5e7fae0add5b63f1db3c/c/l/claymore-dsotm-shiraz-21_nv-new-bling.png</image_link>
+    <description>A bold and powerful Shiraz that lives up to its evocative name with deep, dark fruit characteristics that command attention. The wine opens with an intense bouquet of blackberry, black cherry, and dark plum, followed by layers of dark chocolate, espresso, and a hint of vanilla from careful oak aging. The palate is full-bodied and rich, with velvety tannins that provide structure without being overwhelming. Notes of black pepper, leather, and subtle earthiness add complexity to the fruit-forward profile. The finish is long and satisfying, with lingering notes of dark berries and cocoa. This wine pairs excellently with grilled ribeye steak, braised short ribs, or rich pasta dishes. Ready to drink now or cellar for 5-7 years.</description>
+    <short_description>A bold and powerful Shiraz with deep, dark fruit characteristics and velvety tannins.</short_description>
+    <price>38.00</price>
+    <inventory_quantity>156</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <rec_retail>false</rec_retail>
+    <categories>red wine,shiraz,australian wine,full-bodied</categories>
+  </product>
+
+  <product>
+    <id>WD005</id>
+    <title>Briar Ridge Hillrose Shiraz 2023</title>
+    <link>https://www.winedirect.com.au/briar-ridge-hillrose-shiraz-2023</link>
+    <image_link>https://www.winedirect.com.au/media/catalog/product/cache/614deb42ddfd5e7fae0add5b63f1db3c/b/r/briar-ridge-hillrose-shiraz-23_nv-new-bling-1.png</image_link>
+    <description>A fresh and vibrant Shiraz from the excellent 2023 vintage that showcases the bright, approachable side of this classic variety. The wine bursts with bright red fruit flavors of raspberry, red cherry, and strawberry, complemented by subtle notes of white pepper and fresh herbs. The palate is medium-bodied with soft, supple tannins that make this wine immediately approachable and enjoyable. A smooth, silky finish with hints of vanilla and a touch of spice rounds out the experience. This wine is perfect for current drinking and pairs wonderfully with grilled chicken, pasta with tomato-based sauces, or charcuterie boards. The youthful character and balanced acidity make it an excellent choice for both casual gatherings and more formal occasions.</description>
+    <short_description>A fresh and vibrant Shiraz from the 2023 vintage with bright red fruit flavors and soft tannins.</short_description>
+    <price>32.00</price>
+    <inventory_quantity>234</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <rec_retail>true</rec_retail>
+    <categories>red wine,shiraz,australian wine,current vintage</categories>
+  </product>
+</products>

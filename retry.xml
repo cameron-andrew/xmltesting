@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>showpo1</id>
+    <title>Cody Shirt Ruched Detail Scrunch Shirt in Black</title>
+    <link>https://www.showpo.com/products/cody-shirt-ruched-detail-scrunch-shirt-in-black</link>
+    <image_link>https://cdn.shopify.com/s/files/1/0917/0154/3222/files/Cody_Shirt_-_Ruched_Detail_Scrunch_Shirt_in_Black_0003.jpg?v=1744595693&width=1562&height=2500&crop=center</image_link>
+    <description>Ruched Detail Scrunch Shirt in Black with stylish detailing perfect for versatile styling.</description>
+    <price>89</price>
+    <categories>tops,shirts,black,showpo</categories>
+  </product>
+
+  <product>
+    <id>showpo2</id>
+    <title>Hermie Blazer - Single Breasted Blazer in Chocolate</title>
+    <link>https://www.showpo.com/products/hermie-blazer-single-breasted-blazer-in-chocolate</link>
+    <image_link>https://cdn.shopify.com/s/files/1/0917/0154/3222/files/Hermie_Blazer_-_Single_Breasted_Blazer_in_Chocolate_2.jpg?v=1756458878&width=1563&height=2500&crop=center</image_link>
+    <description>Single Breasted Blazer in Chocolate - Showpo Exclusive. Perfect for professional and casual styling.</description>
+    <price>109</price>
+    <categories>blazers,jackets,chocolate,showpo,exclusive</categories>
+  </product>
+
+  <product>
+    <id>showpo3</id>
+    <title>Catharine Mini Dress - Strapless A Line Dress in Pink</title>
+    <link>https://www.showpo.com/products/catharine-mini-dress-strapless-a-line-dress-in-pink</link>
+    <image_link>https://cdn.shopify.com/s/files/1/0917/0154/3222/files/Catharine_Mini_Dress_-_Strapless_A_Line_Dress_in_Pink_1.jpg?v=1746082593&width=1562&height=2500&crop=center</image_link>
+    <description>Strapless A Line Dress in Pink - Showpo Exclusive. Elegant mini dress perfect for special occasions.</description>
+    <price>99</price>
+    <categories>dresses,mini,pink,strapless,showpo,exclusive</categories>
+  </product>
+
+  <product>
+    <id>showpo4</id>
+    <title>Calissa Mini Dress - Frill Hem Smock Dress in Black</title>
+    <link>https://www.showpo.com/products/calissa-mini-dress-frill-hem-smock-dress-in-black</link>
+    <image_link>https://cdn.shopify.com/s/files/1/0917/0154/3222/files/Calissa_Mini_Dress_-_Frill_Hem_Smock_Dress_in_Black__0004_1729833800917.jpg?v=1743647448&width=1563&height=2500&crop=center</image_link>
+    <description>Frill Hem Smock Dress in Black - Showpo Exclusive. Features charming frill details with 4.9/5 star rating.</description>
+    <price>89</price>
+    <categories>dresses,mini,black,frills,showpo,exclusive</categories>
+  </product>
+
+  <product>
+    <id>showpo5</id>
+    <title>Chelsea Top - Gathered Bust Corset Top in Red</title>
+    <link>https://www.showpo.com/products/chelsea-top-gathered-bust-corset-top-in-red</link>
+    <image_link>https://cdn.shopify.com/s/files/1/0917/0154/3222/files/Chelsea_Top_-_Gathered_Bust_Corset_Top_in_Red_1.jpg?v=1746080863&width=1562&height=2500&crop=center</image_link>
+    <description>Gathered Bust Corset Top in Red - Showpo Exclusive. Stylish corset top with gathered bust detailing.</description>
+    <price>79</price>
+    <categories>tops,corsets,red,gathered,showpo,exclusive</categories>
+  </product>
+</products>

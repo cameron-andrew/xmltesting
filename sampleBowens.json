@@ -2,48 +2,42 @@
   {
     "id": "005B1SP6PK",
     "title": "Lockwood Paradigm® 005 Deadbolt Round Satin Chrome Pearl",
+    "link": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-satin-chrome-pearl/",
     "description": "Lockwood Paradigm® 005 deadbolt in a round profile offers a robust yet versatile entrance lock for any home. It is finished in satin chrome pearl for a modern look.",
-    "url": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-satin-chrome-pearl/",
-    "image_full_url": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1sp6pk_01_01_7e6ca0d6e8b1e4192ef9fb4f73a3b053bb729ec0_005b1sp6pk_1/600.webp",
-    "item_group_id": "Parent_005B1SP5RP",
     "price": 176,
+    "image_link": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1sp6pk_01_01_7e6ca0d6e8b1e4192ef9fb4f73a3b053bb729ec0_005b1sp6pk_1/600.webp",
+    "categories": ["Deadlocks"],
     "inventory_quantity": 0,
     "inventory_policy": 2,
-    "category": [
-      "Deadlocks"
-    ],
+    "item_group_id": "Parent_005B1SP5RP",
     "brand": "Lockwood",
     "bowens_benefits_price": 167.2
   },
   {
     "id": "005B1SSS6PK",
     "title": "Lockwood Paradigm® 005 Deadbolt Round Satin Stainless Steel",
+    "link": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-satin-stainless-steel/",
     "description": "Lockwood Paradigm® 005 deadbolt in a round profile offers a robust yet versatile entrance lock for any home. It is finished in satin stainless steel for a modern, long lasting lock.",
-    "url": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-satin-stainless-steel/",
-    "image_full_url": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1sss6pk_01_01_9278d3778945bf475b7937d28c6d9d7515e7ab06_005b1sss6pk_1/600.webp",
-    "item_group_id": "Parent_005B1SSS5PK",
     "price": 315,
+    "image_link": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1sss6pk_01_01_9278d3778945bf475b7937d28c6d9d7515e7ab06_005b1sss6pk_1/600.webp",
+    "categories": ["Deadlocks"],
     "inventory_quantity": 0,
     "inventory_policy": 2,
-    "category": [
-      "Deadlocks"
-    ],
+    "item_group_id": "Parent_005B1SSS5PK",
     "brand": "Lockwood",
     "bowens_benefits_price": 299.25
   },
   {
     "id": "005B1CP6PK",
     "title": "Lockwood Paradigm® 005 Deadbolt Round Chrome Plated",
+    "link": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-chrome-plated/",
     "description": "Lockwood Paradigm® 005 deadbolt in a round profile offers a robust yet versatile entrance lock for any home. It is chrome plated for a contemporary look.",
-    "url": "https://local.api.dev.gcp.bowens.com.au/p/lockwood-paradigm-005-deadbolt-round-chrome-plated/",
-    "image_full_url": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1cp6pk_default/600.webp",
-    "item_group_id": "Parent_005B1CP5KA",
     "price": 275,
+    "image_link": "https://storage.googleapis.com/bowens-dev-public/media/internal/erp-product_005b1cp6pk_default/600.webp",
+    "categories": ["Deadlocks"],
     "inventory_quantity": 0,
     "inventory_policy": 2,
-    "category": [
-      "Deadlocks"
-    ],
+    "item_group_id": "Parent_005B1CP5KA",
     "brand": "Lockwood",
     "bowens_benefits_price": 261.25
   }

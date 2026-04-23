@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<Products>
+  <Product>
+    <id>26EF11591</id>
+    <title>Strong is the New Pretty</title>
+    <link>https://example.com/events/2026-strong-is-the-new-pretty-2_2560_x_1092</link>
+    <description>It’s not just about a sport. It’s about a revolution.</description>
+    <price>0</price>
+    <image_link>https://example.com/images/2026-strong-is-the-new-pretty-2_2560_x_1092.jpg</image_link>
+    <categories>Theatre</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+
+  <Product>
+    <id>7AB32C904</id>
+    <title>Koreaboo</title>
+    <link>https://example.com/events/koreaboo_landscape</link>
+    <description>A Show of Family and Belonging</description>
+    <price>0</price>
+    <image_link>https://example.com/images/koreaboo_landscape.jpg</image_link>
+    <categories>Theatre</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+
+  <Product>
+    <id>91XZ55012</id>
+    <title>Riverfire 2026</title>
+    <link>https://example.com/events/riverfire-by-art-credit-jd-lin_48a6467a</link>
+    <description>Save the date! Brisbane is set to explode in colour with the spectacular Riverfire on Sat 5 Sep 2026.</description>
+    <price>0</price>
+    <image_link>https://example.com/images/riverfire-by-art-credit-jd-lin_48a6467a.jpg</image_link>
+    <categories>Family,Free</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+
+  <Product>
+    <id>B72LM9981</id>
+    <title>Maestro 6: La Mer</title>
+    <link>https://example.com/events/qso26-qpac-maestro6-1920x1080</link>
+    <description>From gentle tides to stormy swells, Queensland Symphony Orchestra’s La Mer captures the ever-shifting moods of the sea.</description>
+    <price>0</price>
+    <image_link>https://example.com/images/qso26-qpac-maestro6-1920x1080.jpg</image_link>
+    <categories>Music</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+
+  <Product>
+    <id>55QWE7712</id>
+    <title>Make, Believe, Magic: The Worlds of The Jim Henson Company</title>
+    <link>https://example.com/events/qagoma_the-jim-henson-company-exhibition_1920x1080</link>
+    <description>An unprecedented exhibition exploring the imaginative storytelling and world-building of The Jim Henson Company.</description>
+    <price>0</price>
+    <image_link>https://example.com/images/qagoma_the-jim-henson-company-exhibition_1920x1080.jpg</image_link>
+    <categories>Family,Visual Art,Installation</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+
+  <Product>
+    <id>C890PL223</id>
+    <title>Maestro 7: Symphonic Dances</title>
+    <link>https://example.com/events/qso26-qpac-maestro7-1920x1080</link>
+    <description>From folk steps to final farewells, Queensland Symphony Orchestra's Symphonic Dances concert is built around the joy of dance.</description>
+    <price>0</price>
+    <image_link>https://example.com/images/qso26-qpac-maestro7-1920x1080.jpg</image_link>
+    <categories>Music</categories>
+    <inventory_quantity>100</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+</Products>
